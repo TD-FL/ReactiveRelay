@@ -1,8 +1,8 @@
 # ReactiveAT
 
-[![PlatformIO Registry](https://badges.registry.platformio.org/packages/ddododvic/library/ReactiveAt.svg)](https://registry.platformio.org/libraries/ddododvic/ReactiveAt)
-[![GitHub issues](https://img.shields.io/github/issues/TD-FL/ReactiveAT.svg)](https://github.com/TD-FL/ReactiveAT/issues)
-[![License](https://img.shields.io/badge/licence-Apache%202.0-blue)](https://github.com/TD-FL/ReactiveAT/blob/master/LICENSE)
+[![PlatformIO Registry](https://badges.registry.platformio.org/packages/ddododvic/library/ReactiveRelay.svg)](https://registry.platformio.org/libraries/ddododvic/ReactiveRelay)
+[![GitHub issues](https://img.shields.io/github/issues/TD-FL/ReactiveRelay.svg)](https://github.com/TD-FL/ReactiveRelay/issues)
+[![License](https://img.shields.io/badge/licence-Apache%202.0-blue)](https://github.com/TD-FL/ReactiveRelay/blob/master/LICENSE)
 
 
 Reactive Non Blocking Relay Library for Arduino Framework.

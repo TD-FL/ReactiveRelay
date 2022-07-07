@@ -10,7 +10,7 @@ Relay::Relay(uint8_t pin, bool onIsLow) {
     this->_pin = pin;
     this->_onIsLow = onIsLow;
     pinMode(this->_pin, OUTPUT);
-    digitalWrite(this->_pin, HIGH);
+    digitalWrite(this->_pin, onIsLow ? HIGH : LOW);
 }
 
 void Relay::click() {

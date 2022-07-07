@@ -4,7 +4,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/TD-FL/ReactiveRelay.svg)](https://github.com/TD-FL/ReactiveRelay/issues)
 [![License](https://img.shields.io/badge/licence-Apache%202.0-blue)](https://github.com/TD-FL/ReactiveRelay/blob/master/LICENSE)
 
-
 Reactive Non Blocking Relay Library for Arduino Framework.
 
 ## Features

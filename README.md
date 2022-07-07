@@ -1,4 +1,4 @@
-# ReactiveAT
+# ReactiveRelay
 
 [![PlatformIO Registry](https://badges.registry.platformio.org/packages/ddododvic/library/ReactiveRelay.svg)](https://registry.platformio.org/libraries/ddododvic/ReactiveRelay)
 [![GitHub issues](https://img.shields.io/github/issues/TD-FL/ReactiveRelay.svg)](https://github.com/TD-FL/ReactiveRelay/issues)
